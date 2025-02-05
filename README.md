@@ -1,1 +1,1 @@
-# OCTANET_FEBRUARY
+This clean and responsive landing page is perfect for businesses, startups, and tech companies wanting a strong online presence. Built with HTML & CSS, it has a modern design, engaging content, and high-quality visuals to make your brand stand out.
